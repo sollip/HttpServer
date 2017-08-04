@@ -1,0 +1,66 @@
+2017-08-04 16:29:21 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501831761622
+2017-08-04 16:29:33 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501831773957
+2017-08-04 16:49:02 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501832942014
+2017-08-04 16:49:13 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501832953687
+2017-08-04 16:49:20 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501832960060
+2017-08-04 16:49:22 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501832962373
+2017-08-04 16:49:55 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501832995077
+2017-08-04 16:49:55 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501832995166
+2017-08-04 16:49:58 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501832998465
+2017-08-04 16:50:03 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833003145
+2017-08-04 16:51:57 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:51:57 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833117086
+2017-08-04 16:52:04 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833124332
+2017-08-04 16:53:23 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:53:23 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833203217
+2017-08-04 16:53:41 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:53:41 [main] ERROR kr.or.connect.webServer.HttpServer - [ERROR] Address already in use: JVM_Bind
+2017-08-04 16:53:49 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:53:49 [main] ERROR kr.or.connect.webServer.HttpServer - [ERROR] Address already in use: JVM_Bind
+2017-08-04 16:56:16 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:56:16 [main] ERROR kr.or.connect.webServer.HttpServer - [ERROR] Address already in use: JVM_Bind
+2017-08-04 16:56:34 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833394756
+2017-08-04 16:59:10 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 16:59:10 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833550470
+2017-08-04 16:59:15 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833555881
+2017-08-04 17:02:27 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:02:27 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833747688
+2017-08-04 17:02:33 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833753414
+2017-08-04 17:04:18 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:04:18 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833858724
+2017-08-04 17:04:21 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833861888
+2017-08-04 17:05:27 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:05:27 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501833927848
+2017-08-04 17:05:30 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501833930511
+2017-08-04 17:05:30 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501833930516
+2017-08-04 17:08:11 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:08:11 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834091498
+2017-08-04 17:08:47 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834127499
+2017-08-04 17:08:47 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834127682
+2017-08-04 17:10:30 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:10:30 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834230206
+2017-08-04 17:10:31 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834231884
+2017-08-04 17:10:31 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834231891
+2017-08-04 17:18:31 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:18:31 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834711525
+2017-08-04 17:18:35 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834715019
+2017-08-04 17:18:35 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834715204
+2017-08-04 17:18:47 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:18:47 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834727194
+2017-08-04 17:18:48 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834728398
+2017-08-04 17:18:48 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834728402
+2017-08-04 17:18:56 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:18:56 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834736848
+2017-08-04 17:19:06 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834746133
+2017-08-04 17:19:06 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834746138
+2017-08-04 17:19:46 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:19:46 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] SERVER START - 1501834786947
+2017-08-04 17:19:54 [main] INFO  kr.or.connect.webServer.HttpServer - [INFO] CLINET CONNECT - 1501834794140
+2017-08-04 17:19:54 [main] INFO  k.o.c.webServer.RequestHandler - [INFO] Request{httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null} - 1501834794146
+2017-08-04 17:33:24 [main] INFO  k.o.c.webServer.RequestHandler - [Server Start]
+2017-08-04 17:33:24 [main] INFO  kr.or.connect.webServer.HttpServer - SERVER START
+2017-08-04 17:33:35 [main] INFO  kr.or.connect.webServer.HttpServer - CLINET CONNECT
+2017-08-04 17:33:35 [main] INFO  k.o.c.webServer.RequestHandler - Request [httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null]
+2017-08-04 17:33:35 [main] INFO  kr.or.connect.webServer.HttpServer - CLINET CONNECT
+2017-08-04 17:33:43 [main] INFO  k.o.c.webServer.RequestHandler - Request [httpVersion='HTTP/1.1', headers={Cookie=JSESSIONID=5BC888D68257A4EC45B0885C2248F0E0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36, Host=127.0.0.1:8080, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4}, method='GET', requestTarget='/', bodyInput=null]
+2017-08-04 17:33:43 [main] INFO  kr.or.connect.webServer.HttpServer - CLINET CONNECT
